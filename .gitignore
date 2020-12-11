@@ -12,10 +12,7 @@
 *.sh
 stdout.txt
 stderr.txt
-build*/*
 stamps/*
-Saves/*
-scripts/*
 generated/*
 includes/*
 recordings/
