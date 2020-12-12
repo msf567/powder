@@ -27,7 +27,6 @@ Makefile.me
 *.sdf
 *.user
 *.filter
-*.sln
 *.suo
 *.manifest
 *.manifest.res
